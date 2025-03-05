@@ -1,0 +1,41 @@
+body{
+    background: #e7e7c3 url(images/noise.png);
+    font-family: "Lucida Grande",Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+
+}
+
+h1 a{
+    color: #85a81b;
+    text-decoration: none;
+}
+
+h1 a:hover{
+    background-color: #85a81b;
+    color: #fff;
+}
+
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+
+.place {
+    background-color: #FFF;
+    border:1px solid #CCC;
+    border-color: rgba(241, 245, 185, 0.829);
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+
+.place h2{
+    border-bottom: 1px dashed #85a81b; 
+}
+
+.place img{
+    height: 250px;
+    width: 250px;
+}
+
+
